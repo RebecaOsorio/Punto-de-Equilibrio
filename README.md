@@ -1,4 +1,4 @@
-# Punto-de-Equilibrio
+# Punto de Equilibrio
 Funciones básicas de python aplicadas al cálculo del Punto de Equilibrio.
 
 ## Código clave:
