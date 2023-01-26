@@ -20,3 +20,4 @@ Librería **Pandas** para poder armar una tabla con las listas *unidades*, *cost
 ### Plotly
 
 Usamos la librería **$plotly.graph_{}objects$** para graficar *costos*, *ventas* y *utilidades* vs *unidades*, y el **punto de equilibrio** en un sólo gráfico.
+![Grafico del Punto de Equilibrio](https://user-images.githubusercontent.com/90414330/214787998-8b2fd4df-dd30-4a38-a041-1bb83e7e5c39.png)
